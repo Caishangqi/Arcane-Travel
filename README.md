@@ -1,4 +1,4 @@
-# WizzardRPG
+# Arcane Travel 奥术旅途
 **A Dedicate Server that play with high quality of Dungeons and Magic, feel free to join us with kkk.fantang.cc:24499**, We are focusing on giving player a high quality UI and endless possibility of combinding numorous items and spells. The server will have a beta in middle June.
 
 ![image](https://user-images.githubusercontent.com/39553613/115486556-c3e77d00-a20b-11eb-824e-f14800a3580c.png)
