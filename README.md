@@ -19,3 +19,6 @@
 ▪ Well designed story line for each NPC, make a unique story base on favorability !
 
 ▪ Furniture, biome, recreation, much more on the server...
+
+## Support
+Welcome to join us through [QQ](https://jq.qq.com/?_wv=1027&k=WuP19lkr).
